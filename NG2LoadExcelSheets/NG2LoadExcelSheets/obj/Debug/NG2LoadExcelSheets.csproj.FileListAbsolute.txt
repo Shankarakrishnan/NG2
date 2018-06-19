@@ -1,0 +1,10 @@
+D:\Projects\NG2\NG2\NG2LoadExcelSheets\NG2LoadExcelSheets\bin\Debug\NG2LoadExcelSheets.exe.config
+D:\Projects\NG2\NG2\NG2LoadExcelSheets\NG2LoadExcelSheets\obj\Debug\NG2LoadExcelSheets.csprojResolveAssemblyReference.cache
+D:\Projects\NG2\NG2\NG2LoadExcelSheets\NG2LoadExcelSheets\obj\Debug\NG2LoadExcelSheets.Properties.Resources.resources
+D:\Projects\NG2\NG2\NG2LoadExcelSheets\NG2LoadExcelSheets\obj\Debug\NG2LoadExcelSheets.csproj.GenerateResource.Cache
+D:\Projects\NG2\NG2\NG2LoadExcelSheets\NG2LoadExcelSheets\bin\Debug\NG2LoadExcelSheets.exe
+D:\Projects\NG2\NG2\NG2LoadExcelSheets\NG2LoadExcelSheets\bin\Debug\NG2LoadExcelSheets.pdb
+D:\Projects\NG2\NG2\NG2LoadExcelSheets\NG2LoadExcelSheets\obj\Debug\NG2LoadExcelSheets.exe
+D:\Projects\NG2\NG2\NG2LoadExcelSheets\NG2LoadExcelSheets\obj\Debug\NG2LoadExcelSheets.pdb
+D:\Projects\NG2\NG2\NG2LoadExcelSheets\NG2LoadExcelSheets\obj\Debug\NG2LoadExcelSheets.UploadFile.resources
+D:\Projects\NG2\NG2\NG2LoadExcelSheets\NG2LoadExcelSheets\bin\Debug\NG2DB.mdb
